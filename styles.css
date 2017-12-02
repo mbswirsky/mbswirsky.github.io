@@ -14,19 +14,21 @@ header {
 
 h1.greeting {
 	text-align: center;
-	color: black;
+	color: white;
 	font-family: "Open Sans", "Helvetica Neue", sans-serif;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 70px;
 	letter-spacing: 0px;
-	text-shadow: 0px 0px 8px #423f4f;
+	text-shadow: 2px 2px 4px black;
+
 }
 h2.greeting {
 	text-align: center;
+	color: white;
 	font-family: "Open Sans", "Helvetica Neue", sans-serif;
 	font-style: normal;
-  
+	text-shadow: 2px 2px 4px black;
 }
 .text {
 	margin: 10px 30px;
